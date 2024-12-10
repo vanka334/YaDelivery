@@ -3,8 +3,8 @@
     public class PlacePhysicalDimensions
     {
         public int weight_gross { get; set; }
-        public string dx {get;set;}
-        public string dy {get; set:}
-        public string dz {get; set;}
+        public int  dx {get;set;}
+        public int dy {get; set:}
+        public int dz {get; set;}
     }
 }
